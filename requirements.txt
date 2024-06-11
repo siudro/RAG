@@ -1,4 +1,4 @@
 tempfile
 embedchain
 os
-streamli
+streamlit
